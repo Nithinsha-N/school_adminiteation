@@ -1,0 +1,5 @@
+from .user_serializers import UserSerializer
+from .mark_serializers import MarkSerializer
+from .subject_serializers import SubjectSerializer
+from  .average_mark_serliazers import AverageMarksBySubjectSerializer
+from  .teacher_serlizers import TeacherSerializer
